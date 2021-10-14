@@ -1,1 +1,3 @@
 # TechGroundsAssessment
+
+For acceptance for the TechGrounds Web Development education we had to recreate a webpage from sccratch...
